@@ -1,4 +1,4 @@
-# healthcare-operations-dashboard
+# Healthcare Operations Dashboard
 Power BI project for evaluating hospital operations data, including admissions, departments, trends, and wait times.
 
 ## Goal
